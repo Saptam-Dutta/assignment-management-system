@@ -1,0 +1,1 @@
+default_app_config = "assignment_transaction_app.apps.AssignmentTransactionAppConfig"
